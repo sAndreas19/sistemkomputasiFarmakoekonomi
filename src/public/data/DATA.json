@@ -1,0 +1,164 @@
+{
+  "restaurants": [
+    {
+      "id": "6c7bqjgi84kcowlqdz",
+      "name": "Captopril",
+      "description": "Mengobati hipertensi (tekanan darah tinggi) dan gagal jantung. Captopril adalah inhibitor ACE (Angiotensin-Converting Enzyme), yang membantu merelaksasi pembuluh darah.",
+      "pictureId": "../obat/Amlodipine.jpg",
+      "city": "Generic",
+      "rating": 4.6
+    },
+    {
+      "id": "ljx8i0qu2uckcowlqdz",
+      "name": "Simvastatin",
+      "description": "Menurunkan kadar kolesterol jahat (LDL) dan trigliserida dalam darah serta meningkatkan kolesterol baik (HDL). Obat ini digunakan untuk mencegah penyakit jantung.",
+      "pictureId": "../obat/simvastatin.jpg",
+      "city": "Generic",
+      "rating": 4.6
+    },
+    {
+      "id": "fe8bbxoazddkcowlqdz",
+      "name": "Metformin",
+      "description": "Mengontrol kadar gula darah pada penderita diabetes tipe 2. Metformin bekerja dengan meningkatkan sensitivitas tubuh terhadap insulin dan menurunkan produksi glukosa di hati.",
+      "pictureId": "../obat/Metformin.jpg",
+      "city": "Generic",
+      "rating": 4.8
+    },
+    {
+      "id": "ik1zljmlf68kcowlqdz",
+      "name": "Ibuprofen",
+      "description": "Meredakan nyeri, peradangan, dan demam. Digunakan untuk nyeri ringan hingga sedang, termasuk sakit kepala, nyeri otot, dan nyeri menstruasi.",
+      "pictureId": "../obat/Ibuprofen.jpg",
+      "city": "Generic",
+      "rating": 4.7
+    },
+    {
+      "id": "9jpuzkm6n6jkcowlqdz",
+      "name": "Paracetamol",
+      "description": "Meredakan rasa sakit ringan hingga sedang serta menurunkan demam. Ini sering digunakan untuk mengatasi sakit kepala, sakit gigi, atau nyeri otot.",
+      "pictureId": "../obat/Paracetamol.jpg",
+      "city": "Generic",
+      "rating": 3.8
+    },
+    {
+      "id": "cpl5jpsnuqkkcowlqdz",
+      "name": "As mefenamat",
+      "description": "Mengurangi rasa sakit dan peradangan, sering digunakan untuk nyeri haid dan nyeri ringan hingga sedang lainnya.",
+      "pictureId": "../obat/Asam_mefenamat.jpg",
+      "city": "Generic",
+      "rating": 4.6
+    },
+    {
+      "id": "iqtf9hmdzvbkcowlqdz",
+      "name": "Farfisen",
+      "description": "Belum banyak informasi spesifik tersedia, kemungkinan besar merupakan nama merek untuk obat tertentu dengan indikasi serupa seperti antiinflamasi atau pereda nyeri.",
+      "pictureId": "../obat/Farfisen.jpg",
+      "city": "Paten",
+      "rating": 3.6
+    },
+    {
+      "id": "8i06gqcc2dpkcowlqdz",
+      "name": "Ciprofloxacin",
+      "description": "Antibiotik untuk mengobati berbagai infeksi bakteri, termasuk infeksi saluran kemih, infeksi kulit, dan infeksi saluran pernapasan.",
+      "pictureId": "../obat/Ciprofloxacin.jpg",
+      "city": "Generic",
+      "rating": 4
+    },
+    {
+      "id": "wf5o19xhxxkcowlqdz",
+      "name": "Amlodipine",
+      "description": "Mengobati hipertensi dan angina (nyeri dada). Obat ini adalah penghambat saluran kalsium yang membantu merelaksasi pembuluh darah dan meningkatkan aliran darah.",
+      "pictureId": "../obat/Amlodipine.jpg",
+      "city": "Generic",
+      "rating": 3.9
+    },
+    {
+      "id": "wf5o19xhxxkcowlqdz",
+      "name": "Amoxycilin",
+      "description": "Antibiotik yang digunakan untuk mengobati berbagai infeksi bakteri, seperti infeksi telinga, tenggorokan, saluran kemih, dan infeksi pernapasan.itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure.",
+      "pictureId": "../obat/Amoxycilin.jpg",
+      "city": "Generic",
+      "rating": 3.9
+    },
+    {
+      "id": "wf5o19xhxxkcowlqdz",
+      "name": "Norvask",
+      "description": "Nama merek untuk Amlodipine. Digunakan untuk mengobati tekanan darah tinggi dan nyeri dada.",
+      "pictureId": "../obat/Norvask.jpg",
+      "city": "Paten",
+      "rating": 3.9
+    },
+    {
+      "id": "wf5o19xhxxkcowlqdz",
+      "name": "Acyclovir",
+      "description": " Antivirus untuk mengobati infeksi yang disebabkan oleh virus herpes, termasuk herpes simpleks dan herpes zoster (cacar ular).",
+      "pictureId": "../obat/Acyclovir.jpg",
+      "city": "Generic",
+      "rating": 3.9
+    },
+    {
+      "id": "wf5o19xhxxkcowlqdz",
+      "name": "Valemia",
+      "description": "Nama merek yang mungkin mengacu pada obat antivirus atau lainnya, namun detail lebih spesifik belum tersedia. ",
+      "pictureId": "../obat/Valemia.jpg",
+      "city": "Paten",
+      "rating": 3.9
+    },
+    {
+      "id": "wf5o19xhxxkcowlqdz",
+      "name": "Panadol",
+      "description": "Nama merek untuk Paracetamol, digunakan untuk mengatasi nyeri ringan hingga sedang serta menurunkan demam.",
+      "pictureId": "../obat/Panadol.jpg",
+      "city": "Paten",
+      "rating": 3.9
+    },
+    {
+      "id": "wf5o19xhxxkcowlqdz",
+      "name": "Glucophage",
+      "description": "Nama merek untuk Captopril. Digunakan untuk mengobati hipertensi dan gagal jantung.",
+      "pictureId": "../obat/Glucophage.jpg",
+      "city": "Paten",
+      "rating": 3.9
+    },
+    {
+      "id": "wf5o19xhxxkcowlqdz",
+      "name": "Capoten",
+      "description": "Nama merek untuk Asam Mefenamat, digunakan untuk meredakan nyeri, termasuk nyeri menstruasi.",
+      "pictureId": "../obat/Capoten.jpg",
+      "city": "Paten",
+      "rating": 3.9
+    },
+    {
+      "id": "wf5o19xhxxkcowlqdz",
+      "name": "Ponstan",
+      "description": "Nama merek untuk Acyclovir. Digunakan untuk mengobati infeksi yang disebabkan oleh virus herpes.",
+      "pictureId": "../obat/Ponstan.jpg",
+      "city": "Paten",
+      "rating": 3.9
+    },
+    {
+      "id": "wf5o19xhxxkcowlqdz",
+      "name": "Amoxan",
+      "description": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure.",
+      "pictureId": "../obat/Amoxan.jpg",
+      "city": "Paten",
+      "rating": 3.9
+    },
+    {
+      "id": "wf5o19xhxxkcowlqdz",
+      "name": "Zovirax",
+      "description": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure.",
+      "pictureId": "../obat/Zovirax.jpg",
+      "city": "Paten",
+      "rating": 3.9
+    },
+    {
+      "id": "wf5o19xhxxkcowlqdz",
+      "name": "Ciproxin",
+      "description": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure.",
+      "pictureId": "../obat/Ciproxin.jpg",
+      "city": "Paten",
+      "rating": 3.9
+    }
+  ]
+}

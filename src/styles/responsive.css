@@ -1,0 +1,29 @@
+@media screen and (max-width: 768px) {
+    .drawer {
+        display: inline-block;
+    }
+
+    .navbar-item {
+        display: none;
+        background-color: #03a135;
+        padding: 14px;
+        position: absolute;
+        text-align: center;
+        width: 150px;
+        margin-top: 10px;
+        transform: translateX(-80px);
+    }
+
+    .navbar-item ul li {
+        padding: 16;
+        margin: 16px;
+    }
+
+    .navbar-item ul li a {
+        color: white;
+    }
+
+    .navbar-item.open  {
+        display: block;
+    }
+}
